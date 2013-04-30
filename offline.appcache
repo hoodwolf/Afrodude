@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1367123177
+#1367282555
 index.html
 c2runtime.js
 jquery-1.7.1.min.js
@@ -21,11 +21,18 @@ images\moves.png
 images\sprite5-sheet0.png
 images\sprite5-sheet1.png
 images\sprite5-sheet2.png
+images\sprite6-sheet0.png
+images\tiledbackground3.png
+images\tiledbackground4.png
+images\tiledbackground5.png
+images\tiledbackground6.png
 media\lttp_arrow_shoot.m4a
 media\lttp_arrow_shoot.ogg
 media\lttp_cane_magic.m4a
 media\lttp_cane_magic.ogg
 media\greensleeves.m4a
 media\greensleeves.ogg
+media\lavander%20moonlight.m4a
+media\lavander%20moonlight.ogg
 NETWORK:
 *

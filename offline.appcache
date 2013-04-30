@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1367285308
+#1367301886
 index.html
 c2runtime.js
 jquery-1.7.1.min.js
@@ -28,6 +28,7 @@ images\tiledbackground5.png
 images\tiledbackground6.png
 images\particles.png
 images\sprite7-sheet0.png
+images\sprite8-sheet0.png
 media\lttp_arrow_shoot.m4a
 media\lttp_arrow_shoot.ogg
 media\lttp_cane_magic.m4a

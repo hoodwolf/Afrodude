@@ -13461,7 +13461,7 @@ cr.behaviors.solid = function(runtime)
 }());
 cr.getProjectModel = function() { return [
 	null,
-	null,
+	"Layout 2",
 	[
 	[
 		cr.plugins_.Keyboard,
@@ -14044,7 +14044,7 @@ cr.getProjectModel = function() { return [
 		0,
 		0,
 		0,
-		["images/tiledbackground5.png", 1898689, 1],
+		["images/tiledbackground5.png", 2025363, 1],
 		null,
 		[
 		],
